@@ -9,7 +9,7 @@ function App() {
   return (
    <>
    <Navbar />
-   <Header title='Hii I am Text Bot' />
+   <Header title='Hii I Am Your Text Bot' />
    <Textform />
    <Footer />
    </>
